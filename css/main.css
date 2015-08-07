@@ -13,6 +13,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
 	font-size: 48px;
 	padding-top: 20px;
+	text-shadow: 0 1px 4px gray;
 }
 
 h1, h2, h3 {
@@ -135,7 +136,7 @@ h1, h2 {
 	height: 100px;
 	margin: 0 auto;
 	font-weight: bold;
-	text-shadow: 1px 1px 1px #602d1a;
+	/*text-shadow: 1px 1px 1px #602d1a;*/
 }
 
 .testimonials {
