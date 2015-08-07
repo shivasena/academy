@@ -30,7 +30,7 @@ h1, h2 {
 }
 
 .header {
-	background-image: url(../images/academy/header-bg-01.jpg);
+	background-image: url(../images/academy/header-bg-02.jpg);
     background-repeat: no-repeat;
     background-position: 0% top;
     background-size: cover;
@@ -61,6 +61,10 @@ h1, h2 {
 
 .about H3 {
 	text-align: left !important;
+}
+.starrating i {
+	padding-left: 2px;
+	color: #FFB300;
 }
 
 .target {
