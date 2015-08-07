@@ -1,5 +1,5 @@
 $('.carousel').carousel({
-  interval: 5000
+  interval: 4000
 });
 
 $(function() {
@@ -17,4 +17,4 @@ $(function() {
   });
 });
 
-$('#students').countTo();
+new WOW().init();
